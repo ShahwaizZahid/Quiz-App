@@ -12,4 +12,4 @@ It features multiple-choice questions, score tracking, and a clean responsive UI
 ## How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/quiz-website.git
+   git clone https://github.com/ShahwaizZahid/Quiz-App.git
